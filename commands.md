@@ -19,3 +19,6 @@
 ## posgresql
 1. `DROP SCHEMA public CASCADE; CREATE SCHEMA public;`. Deletes all tables from db
 2. \d, \dt, \l, \q
+
+ ## Start the app
+1. poetry run python app/main.py 
